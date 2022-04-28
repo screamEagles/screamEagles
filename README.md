@@ -1,0 +1,5 @@
+Hi! I am Umair Shakeel. I am currently studying Software Engineering from NED University of Engineering and Technology. I have been making websites using HTML, CSS, and JavaScript for about five years.
+
+Playing strategic video games and chess are my biggest hobbies, but I love them when I program them using Python, C++, and C#. Apart from my studies, I recently grew fond of co-curricular activities, especially in one of NED's societies called AI Club, where I write website content, and achieved the first position in the event AI Fest's Logic Hunt Competition.
+
+Apart from the software world, I developed an interest in learning languages like German and Chinese, and I took roles in organising events for three years. Being a software engineering student, I aim for knowledge and experience. As the world is evolving, I should keep up by learning new things on the Internet, and I must interact with people to learn about their points of view, thoughts, and most importantly their lifestyles and cultures.
