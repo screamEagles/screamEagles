@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning React, German, Arabic, Chinese, and Turkish
+- 🌱 I am currently learning React, German, Arabic, Chinese, and Turkish
 
 - 💬 Ask me about anything! (except about Voldemort's nose)
 
