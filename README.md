@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning React, German, Arabic, Chinese, and Turkish
 
-- 💬 Ask me about anything ..... except Voldemort's nose
+- 💬 Ask me about anything! (except about Voldemort's nose)
 
 - 📫 Feel free to talk to me at umairshakeelkhan@gmail.com
 
