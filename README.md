@@ -29,10 +29,10 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=screameagles&show_icons=true&locale=en&layout=compact" alt="screameagles" />
 
-<br>
+<br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=screameagles&show_icons=true&locale=en" alt="screameagles" />
 
-<br>
+<br />
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=screameagles&" alt="screameagles" />
