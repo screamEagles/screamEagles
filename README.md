@@ -1,4 +1,4 @@
-<h1 align="center">Hiya, I am Umair</h1>
+<h1 align="center">Hi, I am Umair</h1>
 <h3 align="center">Blog Writer, Web Developer, and Computer Vision Enthusiast</h3>
 
 <br />
