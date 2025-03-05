@@ -3,7 +3,7 @@
 
 <br />
 
-- 🌱 Currently learning MERN, OpenCV, Angular, and NextJS
+- 🌱 Currently learning OpenCV, and NextJS
 
 - 💬 Ask me about anything! (except about Voldemort's nose)
 
