@@ -3,7 +3,7 @@
 
 <br />
 
-- 🌱 Currently learning OpenCV, React, and Next
+- 🌱 Currently learning OpenCV, WebSocket, React, and Next
 
 - 💬 Ask me about anything! (except about Voldemort's nose)
 
