@@ -9,7 +9,7 @@
 
 - 📫 Feel free to talk to me at umairshakeelkhan@gmail.com
 
-- ⚡ Fun fact: Heisenberg manufactures the best product
+- ⚡ Fun fact: Pineapples does not belong on pizza.
 
 <br />
 
