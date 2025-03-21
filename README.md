@@ -7,9 +7,9 @@
 
 - 💬 Ask me about anything! (except about Voldemort's nose)
 
-- 📫 Feel free to talk to me at umairshakeelkhan@gmail.com
+- 📫 Feel free to talk!
 
-- ⚡ Fun fact: Pineapples does not belong on pizza.
+- ⚡ Fun fact: Pineapples do not belong on pizza.
 
 <br />
 
