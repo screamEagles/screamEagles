@@ -9,7 +9,7 @@
 
 - 📫 Feel free to talk!
 
-- ⚡ Fun fact: Pineapples do not belong on pizza.
+- ⚡ Fun fact: HTML is not a programming language.
 
 <br />
 
