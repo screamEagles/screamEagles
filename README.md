@@ -3,7 +3,7 @@
 
 <br />
 
-- 🌱 Currently learning OpenCV, WebSocket, React, Next, and Unity
+- 🌱 Currently upskilling in OpenCV and Unity.
 
 - 💬 Ask me about anything! (except about Voldemort's nose)
 
@@ -18,11 +18,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next" width="40" height="40" /></a>
-<!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a> -->
+  <a href="https://p5js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" alt="p5.js" width="40" height="40" /></a>
 </p>
 
 <br />
@@ -33,7 +29,7 @@
 <a href="https://medium.com/@umairshakeelkhan" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="https://medium.com/@umairshakeelkhan" height="50" width="50" /></a>
 </p>
 
-<br>
+<br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=screameagles&show_icons=true&locale=en&layout=compact" alt="screameagles" />
 
