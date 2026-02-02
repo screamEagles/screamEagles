@@ -2,15 +2,7 @@
 <h3 align="center">Blog Writer, Web Developer, and OpenCV Enthusiast</h3>
 
 <br />
-
-- 🌱 Currently upskilling in OpenCV and Unity.
-
-- 💬 Ask me about anything! (except about Voldemort's nose)
-
-- 📫 Feel free to talk!
-
 - ⚡ Fun fact: Heisenberg manufactures the best product.
-
 <br />
 
 <h3 align="left">Languages And Tools:</h3>
