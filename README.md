@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Umair</h1>
-<h3 align="center">Blog Writer, Web Developer, and OpenCV Enthusiast</h3>
+<h3 align="center">Blog Writer and Unity Enthusiast</h3>
 
 <br />
 - ⚡ Fun fact: Heisenberg manufactures the best product.
