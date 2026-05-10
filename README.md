@@ -1,9 +1,5 @@
-<h1 align="center">Hello, I am Umair</h1>
+<h1 align="center">Hiya <img src="https://raw.githubusercontent.com/screamEagles/screamEagles/main/assets/hand-emoji.svg" alt="Animated Emoji" width="50" height="50" /> I am Umair</h1>
 <h3 align="center">Blog Writer and Unity Enthusiast</h3>
-
-<br />
-- ⚡ Fun fact: Heisenberg manufactures the best product.
-<br />
 
 <h3 align="left">Languages And Tools:</h3>
 <p align="center">
