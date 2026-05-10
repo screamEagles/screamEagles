@@ -29,3 +29,9 @@
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=screameagles&show_icons=true&locale=en" alt="screameagles" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/screamEagles/screamEagles/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/screamEagles/screamEagles/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/screamEagles/screamEagles/output/pacman-contribution-graph.svg">
+</picture>
