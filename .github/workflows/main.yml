@@ -32,7 +32,6 @@ jobs:
 
 name: waving-hand-emoji
 description: This is a dynamic waving hand emoji.
-author: Weijie Wang
 branding:
   icon: "thumbs-up"
   color: "yellow"
