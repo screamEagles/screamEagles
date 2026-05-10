@@ -29,3 +29,12 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+name: waving-hand-emoji
+description: This is a dynamic waving hand emoji.
+author: Weijie Wang
+branding:
+  icon: "thumbs-up"
+  color: "yellow"
+runs:
+  image: "svg"
